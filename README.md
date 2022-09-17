@@ -4,7 +4,7 @@
 <img width=1000 heigth=400 src=https://github.com/Ziko909/ft_printf_42Network/blob/main/Img/ft_printf.gif>
 </div>
 
-<h1> The Purpose Of This Project It Is Knowing how to create a program similar to a <a href=https://fr.wikipedia.org/wiki/Printf>printf</a> well-known function in a language C and knowing its properties and how it work. <hr/>
+<h2> The Purpose Of This Project It Is Knowing how to create a program similar to a <a href=https://fr.wikipedia.org/wiki/Printf>printf</a> well-known function in a language C and knowing its properties and how it work. <hr/>
 
 # > Project Content
 
